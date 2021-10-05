@@ -1,1 +1,2 @@
-# basics_shellscript
+# shellscript
+Learn about shell script
