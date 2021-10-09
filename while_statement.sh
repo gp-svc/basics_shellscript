@@ -16,4 +16,11 @@ do
 	rotation=`expr ${rotation} + 1`
 	echo $rotation
 done
+######
 echo "after whilestatment"
+#####
+
+#while [ $var -eq 20 ] ;
+#do
+#	echo "do the action item"
+#done

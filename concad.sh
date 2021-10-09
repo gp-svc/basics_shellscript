@@ -1,3 +1,3 @@
-a=firstword
-b=secondword
-echo $a $b
+a=dev
+b=ops
+echo $a$b
